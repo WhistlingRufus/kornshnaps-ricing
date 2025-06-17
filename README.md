@@ -1,0 +1,2 @@
+# kornshnaps-ricing
+hyprland configuration 
